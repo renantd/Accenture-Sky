@@ -1,5 +1,12 @@
 # Accenture-Sky
-<h3>Teste Accenture (SKY)</h3>
+<h3>Telas do Aplicativo</h3>
+<div >
+<img src="https://i.imgur.com/TrK3Jky.png"  width="220" height="403"/>
+<img src="https://i.imgur.com/CoVren2.png"  width="220" height="403"/>
+<img src="https://i.imgur.com/ziheWq1.png"  width="220" height="403"/>
+<img src="https://i.imgur.com/icRhNtM.png"  width="220" height="403"/>
+</div>
+
 <p> Observações </p>
 <ol>
 <li>Não utilizei injeção de dependência(Koin ou hilt) por que não houve a necessidade para este teste</li>
